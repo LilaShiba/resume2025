@@ -52,6 +52,13 @@ Decoded | Aug 2019 - Mar 2020
 ### IB Computer Science Teacher 📚
 Dwight School | Aug 2017 - Jul 2019
 
-- 👨‍🏫 Create a two-year Higher Level computer science course for the International Baccalaureate diploma track, focusing on advanced algorithmic thinking and product development.
+- 👩‍🏫 Create a two-year Higher Level computer science course for the International Baccalaureate diploma track, focusing on advanced algorithmic thinking and product development.
 - 🔝 Increase class size by over 300% in one year.
+
+### Secondary English Teacher 📚
+Teach For America | Jun 2013 - Jun 2015
+
+👩‍🏫 Taught English in underserved communities in rural Arkansas.
+🔍 Developed and implemented individualized curriculum for students based on their learning needs.
+📈 Increased student reading levels by an average of two grade levels.
 
