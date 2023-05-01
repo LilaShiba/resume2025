@@ -5,7 +5,7 @@
 📧 kyle1james@gmail.com  
 💼 [linkedin.com/in/profshiba](linkedin.com/in/profshiba)
 
-👋 About Me
+## About Me 💡
 Hi there! 👋 My name is Kyle and I'm a computer scientist with a passion for education and technology. 🖥️ When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book.
 
 As a cancer survivor 🎗️ and a member of the trans community 🌈, I am deeply committed to promoting diversity and inclusivity in all areas of my life. Whether I'm working on a coding project, teaching a class, or just enjoying time with friends, I strive to create a welcoming and supportive environment for everyone around me.
