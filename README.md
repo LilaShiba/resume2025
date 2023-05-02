@@ -2,8 +2,7 @@
 # ✨Kyle James✨ 
 
 📍 Brooklyn, New York, United States  
-📧 kyle1james@gmail.com  
-💼 [linkedin.com/in/profshiba](linkedin.com/in/profshiba)
+📧 kjams@gatech.edu  
 
 ## 💁‍♀️ About Me
 Hi there! 👋 My name is Kyle and I'm a computer scientist with a passion for education and technology. 🖥️ When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book.
