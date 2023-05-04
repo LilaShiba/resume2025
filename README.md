@@ -25,12 +25,12 @@ Jan 2023 - Present · 5 mos
 
 
 ### Associate Engineer 🚀
-Unqork | Apr 2021 - Present
+Unqork | Apr 2021 - 2022
 
 - 🛠️ Develop efficient development tools using higher level programming languages.
 
 ### Technical Trainer 📚
-Unqork | Aug 2020 - Apr 2021
+Unqork | Aug 2020 - Jan 2021
 
 - 🚀 Co-design, build, and deliver proof of concepts for B2B sales.
 - 🎓 Co-teach at universities and serve as a subject matter expert on StackOverflow.
