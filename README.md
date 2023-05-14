@@ -13,9 +13,11 @@ As a cancer survivor 🎗️ and a member of the trans community 🌈, I am deep
 
 ### Masters of Science - MS, Computer Science 🤖
 Georgia Institute of Technology | 2020 - 2024
+    - DILab · Jill Watson project 2023
 
 ### Masters of Arts, Cultural Sustainability 🌍
 Goucher College | 2010 - 2013
+
 
 ## 💼 Professional Experience
 
