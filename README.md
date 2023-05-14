@@ -67,7 +67,7 @@ Teach For America | Jun 2013 - Jun 2015
 📈 Increased student reading levels by an average of two grade levels.
 
 
-# Whay Dark Mode 🌃🌿
+# Why Dark Mode 🌃🌿
 
 Dark mode saves power, especially on devices with OLED or AMOLED displays. These displays work by lighting up individual pixels rather than using a backlight. When the background is dark or black, fewer pixels need to be lit up, which means less power is consumed. 📱💡
 
