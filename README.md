@@ -66,3 +66,19 @@ Teach For America | Jun 2013 - Jun 2015
 🔍 Developed and implemented individualized curriculum for students based on their learning needs.
 📈 Increased student reading levels by an average of two grade levels.
 
+
+# Whay Dark Mode 🌃🌿
+
+Dark mode saves power, especially on devices with OLED or AMOLED displays. These displays work by lighting up individual pixels rather than using a backlight. When the background is dark or black, fewer pixels need to be lit up, which means less power is consumed. 📱💡
+
+## Benefits for the Environment 🌍
+
+By saving power, dark mode can help reduce the overall energy consumption of your devices. This can lead to:
+
+- Reduced electricity usage 🏡⚡
+- Lower carbon footprint 🦶🌳
+- Longer battery life, which means fewer battery replacements and less electronic waste 🌐🔋
+
+So, go ahead and switch to dark mode to save power and contribute to a greener planet! 🌃🌿🌎
+
+Remember, every little bit helps when it comes to protecting our environment! 🤗💚
