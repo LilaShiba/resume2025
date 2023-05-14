@@ -13,7 +13,8 @@ As a cancer survivor 🎗️ and a member of the trans community 🌈, I am deep
 
 ### Masters of Science - MS, Computer Science 🤖
 Georgia Institute of Technology | 2020 - 2024
-    - DILab · Jill Watson project 2023
+
+- DILab · Jill Watson project 2023
 
 ### Masters of Arts, Cultural Sustainability 🌍
 Goucher College | 2010 - 2013
@@ -24,6 +25,7 @@ Goucher College | 2010 - 2013
 ### Computer Science Instructor 🧑‍🏫
 Riverdale Country School · Full-time
 Jan 2023 - Present · 5 mos
+- [Example Lesson](https://kyle1james.github.io/neuralNetAPI2023/)
 
 
 ### Associate Engineer 🚀
@@ -42,6 +44,7 @@ Unqork | Aug 2020 - Jan 2021
 General Assembly | Mar 2020 - Aug 2020
 
 - 🎓 Create and expand on MERN stack development course.
+
 
 ### Product Developer & Technology Educator 🚀
 Decoded | Aug 2019 - Mar 2020
