@@ -15,6 +15,7 @@ As a cancer survivor 🎗️ and a member of the trans community 🌈, I am deep
 Georgia Institute of Technology | 2020 - 2024
 
 - DILab · Summer Research on the Jill Watson project 2023.
+- [Research Interests](https://kyle1james.github.io/witchyAI/)
 
 ### Masters of Arts, Cultural Sustainability 🌍
 Goucher College | 2010 - 2013
