@@ -9,7 +9,7 @@
 ## **About Me**  
 
 <div align="center">
-    <img src="https://github.com/LilaShiba/resume2024/blob/main/self.jpg" alt="Profile Picture" height="400" style="border-radius: 50%;">
+    <img src="https://raw.githubusercontent.com/LilaShiba/resume2024/refs/heads/main/self.jpg" alt="Profile Picture" height="400" style="border-radius: 50%;">
 </div>
 
 ---
