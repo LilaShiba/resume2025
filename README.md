@@ -8,7 +8,7 @@
 ## **Tools & Frameworks**  
 
 **AI:** Python, R, PyTorch, TensorFlow, LangChain, LLMs, NLP, CNN  
-**Development & Databases:** JavaScript, Java, Flask, Node, Docker, MongoDB, NoSQL, SQL  
+**Development & Databases:** JS, Java, Flask, Node, Docker, MongoDB, NoSQL, Vector DBs  
 **Other Skills:** Data Migrations, APIs, Data Pipelines, Client Success, Technical Training
 
 
