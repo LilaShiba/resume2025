@@ -4,12 +4,6 @@
 ✉️ **Email:** lilaresearch@gmail.com  
 🌐 **Portfolio:** [Resume & Portfolio](https://github.com/LilaShiba)  
 
-## **Tools & Frameworks**  
-
-**AI:** Python, R, PyTorch, TensorFlow, LangChain, LLMs, NLP, CNN  
-**Development & Databases:** JS, Java, Flask, Node, Docker, MongoDB, NoSQL, Vector DBs  
-**Other Skills:** Data Migrations, APIs, Data Pipelines, Client Success, Technical Training
-
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/LilaShiba/resume2024/refs/heads/main/self.jpg" alt="Profile Picture" height="400" style="border-radius: 50%;">
@@ -29,7 +23,11 @@ Whether guiding first-graders or C-level executives, I’ve discovered a univers
 > **The success of any endeavor relies more on how a team functions together than on the sum of individual skills.**
 
 ---
+## **Tools & Frameworks**  
 
+**AI:** Python, R, PyTorch, TensorFlow, LangChain, LLMs, NLP, CNN  
+**Development & Databases:** JS, Java, Flask, Node, Docker, MongoDB, NoSQL, Vector DBs  
+**Other Skills:** Data Migrations, APIs, Data Pipelines, Client Success, Technical Training
 
 ## **Education**  
 
