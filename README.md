@@ -1,4 +1,4 @@
-<link href='styles.css'>
+<link rel="stylesheet" href="/resume2025/styles.css">
 
 # **Lila Josey James**  
 📍 **Location:** [Brooklyn, NY](https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html)  
