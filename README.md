@@ -1,12 +1,16 @@
-# **Lila Josey James**  
+<link href='styles.css'>
 
+# **Lila Josey James**  
 📍 **Location:** [Brooklyn, NY](https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html)  
 ✉️ **Email:** lilaresearch@gmail.com  
 🌐 **Portfolio:** [Resume & Portfolio](https://github.com/LilaShiba)  
 
----
+## **Tools & Frameworks**  
 
-## **About Me**  
+**AI:** Python, R, PyTorch, TensorFlow, LangChain, LLMs, NLP, CNN  
+**Development & Databases:** JavaScript, Java, Flask, Node, Docker, MongoDB, NoSQL, SQL  
+**Other Skills:** Data Migrations, APIs, Data Pipelines, Client Success, Technical Training
+
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/LilaShiba/resume2024/refs/heads/main/self.jpg" alt="Profile Picture" height="400" style="border-radius: 50%;">
@@ -16,26 +20,17 @@
 
 ### Greetings  
 
-I am **Lila Josey James**, a technologist with a passion for innovation and collaboration. My journey has taken me across the globe, working with diverse clients and teams.  
+I am **Lila Josey James**, a technologist with a passion for people and technology. My journey has taken me across the globe, working with diverse clients and teams on a wide array of technical problems. For example:  
 
-- 🌍 **Consulting Expertise:** Advised MasterCard in São Paulo, Buenos Aires, and Toronto.  
-- 🤖 **Cutting-edge Solutions:** Built state-of-the-art NLP/LLM systems with Georgia Tech in the U.S.  
-- 🇪🇺 **Global Collaboration:** Partnered with EU engineers to create bespoke software for the fin-tech sector.  
+- 🌍 **Consulting Expertise:** Advised MasterCard in São Paulo, Buenos Aires, and Toronto on security and APIs.  
+- 🤖 **State-of-the-art Solutions:** Built state-of-the-art NLP/LLM systems with Georgia Tech in the U.S.  
+- 🇪🇺 **Global Collaboration:** Partnered with engineers on 6/7 continents to create bespoke software for data pipelines in the fin-tech sector.  
 
 Whether guiding first-graders or C-level executives, I’ve discovered a universal truth:  
 > **The success of any endeavor relies more on how a team functions together than on the sum of individual skills.**
 
 ---
 
----
-
-## **Tools & Frameworks**  
-
-**AI:** Python, R, PyTorch, TensorFlow, LangChain, LLMs, NLP, CNN  
-**Development & Databases:** JavaScript, Java, Flask, Node, Docker, MongoDB, NoSQL, SQL  
-**Other Skills:** Data Migrations, APIs, Data Pipelines, Client Success, Technical Training
-
----
 
 ## **Education**  
 
