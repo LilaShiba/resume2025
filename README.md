@@ -20,7 +20,7 @@
 
 ### Greetings  
 
-I am **Lila Josey James**, a technologist with a passion for people and technology. My journey has taken me across the globe, working with diverse clients and teams on a wide array of technical problems. For example:  
+I am **Lila Josey James**, a technologist passionate about people and their connection to technology. My journey has taken me across the globe, working with diverse clients and teams on a wide array of technical problems. For example:  
 
 - 🌍 **Consulting Expertise:** Advised MasterCard in São Paulo, Buenos Aires, and Toronto on security and APIs.  
 - 🤖 **State-of-the-art Solutions:** Built state-of-the-art NLP/LLM systems with Georgia Tech in the U.S.  
@@ -34,7 +34,7 @@ Whether guiding first-graders or C-level executives, I’ve discovered a univers
 
 ## **Education**  
 
-### 🎓 **Master of Science (MS) in Computer Science**  
+### 🎓 **Master of Science in Computer Science**  
 **Georgia Institute of Technology** *(2020 – 2024)*  
 - Researcher at [Design & Intelligence Lab](https://dilab.gatech.edu/)  
 - Relevant Work: [Jill Watson](https://dilab.gatech.edu/jill-watson/)  
