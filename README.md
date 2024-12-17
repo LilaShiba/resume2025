@@ -1,5 +1,4 @@
 
-# **Lila Josey James**  
 📍 **Location:** [Brooklyn, NY](https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html)  
 ✉️ **Email:** lilaresearch@gmail.com  
 🌐 **Portfolio:** [Resume & Portfolio](https://github.com/LilaShiba)  
