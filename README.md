@@ -25,8 +25,8 @@ Whether guiding first-graders or C-level executives, I’ve discovered a univers
 ## **Tools & Frameworks**  
 
 **AI:** Python, R, PyTorch, TensorFlow, LangChain, LLMs, NLP, CNN  
-**Development & Databases:** JS, Java, Flask, Node, Docker, MongoDB, NoSQL, Vector DBs  
-**Other Skills:** Data Migrations, APIs, Data Pipelines, Client Success, Technical Training
+**Development & Databases:** JS, Java, Flask, Node, Git, Docker, MongoDB, NoSQL, Vector DBs  
+**Other Skills:** Data Migrations, APIs, Data Pipelines, [Stack Overflow SME](https://stackoverflow.blog/2019/12/04/introducing-subject-matter-experts/), Technical Training
 
 ## **Education**  
 
@@ -46,9 +46,11 @@ Whether guiding first-graders or C-level executives, I’ve discovered a univers
 
 ### **Engineer & Full-Stack Developer**  
 **Self-Employed** *(Apr 2022 – Present)*  
-- Designed and implemented full-stack solutions integrating **LLMs**, **NLP**, and **Docker**, tailored to Cancer cell recognition.  
-- Developed MongoDB-powered applications to support dynamic data analysis and secure information storage.  
-- Delivered AI-based analytics pipelines using **LangChain**, **PyTorch**, **TensorFlow**, and Flask APIs to enhance decision-making processes for clients.  
+- Completed MSc in Computer Science at Georgia Tech
+- Researcher & Developer in the Design and Intelligence lab partnered with IBM Watson
+- 🎗️ Recovered from blood cancer 🎗️
+- Created and taught CS courses at the Riverdale Country School
+- Created and led a co-op for wearable fashion tech
 
 ### **Engineer**  
 **[Unqork](https://news.crunchbase.com/unicorn-company-list/)** *(Apr 2021 – 2022)*  
