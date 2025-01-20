@@ -6,12 +6,12 @@
     </div>
     <div>
         <h1 style="margin: 0;">Lila Josey James</h1>
-        <p style="font-style: italic; margin-top: 5px;">Technologist passionate about connecting people and technology.</p>
+        <p style="font-style: italic; margin-top: 5px;">Technologist passionate about Human-Computer interaction.</p>
     </div>
 </div>
 
 
-## **Technical Expertise**  
+## **Tech Stack**  
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin: 20px 0;">
     <div style="flex: 1; min-width: 200px;">
@@ -37,7 +37,6 @@
                     Stack Overflow SME
                 </a>
             </li>
-            <li>Technical Training</li>
         </ul>
     </div>
 </div>
