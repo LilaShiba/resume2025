@@ -5,7 +5,6 @@
              style="border-radius: 50%; margin-bottom: 20px;">
     </div>
     <div>
-        <h1 style="margin: 0;">Lila Josey James</h1>
         <p style="font-style: italic; margin-top: 5px;">Technologist passionate about Human-Computer interaction.</p>
     </div>
 </div>
@@ -50,7 +49,7 @@ I am a technologist with global experience tackling human-computer interaction c
 - 🌟 **Global Collaboration:** Partnering with engineers across six continents to craft bespoke software for data pipelines in large banks undergoing data migrations.  
 
 Whether guiding first-graders or C-level executives, one truth remains constant:  
-> **The success of any endeavor relies more on how a team functions together than on the sum of individual skills.**
+The success of any endeavor relies more on how a team functions together than on the sum of individual skills.
 
 
 ---
