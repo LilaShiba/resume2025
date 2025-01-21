@@ -22,12 +22,12 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
 
 ## **Education**  
 
-### 🎓 **Master of Science in Computer Science**  
+#### 🎓 **Master of Science in Computer Science**  
 **Georgia Institute of Technology** *(2020 – 2024)*  
 - Researcher at [Design & Intelligence Lab](https://dilab.gatech.edu/)  
 - Relevant Work: [Jill Watson](https://dilab.gatech.edu/jill-watson/)  
 
-### 🎓 **Master of Arts in Cultural Sustainability**  
+#### 🎓 **Master of Arts in Cultural Sustainability**  
 **Goucher College** *(2010 – 2013)*  
 - Conducted a two-year grant-funded solo multi-sited ethnography in Northern Africa, EU, and Republic of Ireland  
 - Studied identity formation & capital fetishes  
@@ -67,8 +67,7 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
 ## **Professional Experience**  
 <details>
     <summary>Click to Expand</summary>
-
-
+    
 ### **Engineer & Full-Stack Developer**  
 **Self-Employed** *(Apr 2022 – Present)*  
 - Completed MSc in Computer Science at Georgia Tech
