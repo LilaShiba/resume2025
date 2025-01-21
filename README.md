@@ -10,6 +10,28 @@
 </div>
 
 
+
+## **About Me**  
+I am a technologist with global experience tackling human-computer interaction challenges within the fintech sector. My career highlights include:  
+
+- 🌍 **Consulting Expertise:** Advising MasterCard in São Paulo, Buenos Aires, and Toronto on machine learning, databases, and APIs.  
+- 🤖 **State-of-the-Art Solutions:** Developing and deploying cutting-edge NLP/LLM systems with Georgia Tech, specifically optimizing information pipelines from vector encoding to prediction.  
+- 🌟 **Global Collaboration:** Partnering with engineers across six continents to craft bespoke software for data pipelines in large banks undergoing data migrations.  
+
+Whether guiding first-graders or C-level executives, one truth remains constant: The success of any endeavor relies more on how a team functions together than on the sum of individual skills.
+
+## **Education**  
+
+### 🎓 **Master of Science in Computer Science**  
+**Georgia Institute of Technology** *(2020 – 2024)*  
+- Researcher at [Design & Intelligence Lab](https://dilab.gatech.edu/)  
+- Relevant Work: [Jill Watson](https://dilab.gatech.edu/jill-watson/)  
+
+### 🎓 **Master of Arts in Cultural Sustainability**  
+**Goucher College** *(2010 – 2013)*  
+- Conducted a two-year grant-funded solo multi-sited ethnography in Northern Africa, EU, and Republic of Ireland  
+- Studied identity formation & capital fetishes  
+
 ## **Tech Stack**  
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin: 20px 0;">
@@ -39,19 +61,6 @@
         </ul>
     </div>
 </div>
-
-
-## **About Me**  
-I am a technologist with global experience tackling human-computer interaction challenges within the fintech sector. My career highlights include:  
-
-- 🌍 **Consulting Expertise:** Advising MasterCard in São Paulo, Buenos Aires, and Toronto on machine learning, databases, and APIs.  
-- 🤖 **State-of-the-Art Solutions:** Developing and deploying cutting-edge NLP/LLM systems with Georgia Tech, specifically optimizing information pipelines from vector encoding to prediction.  
-- 🌟 **Global Collaboration:** Partnering with engineers across six continents to craft bespoke software for data pipelines in large banks undergoing data migrations.  
-
-Whether guiding first-graders or C-level executives, one truth remains constant:  
-The success of any endeavor relies more on how a team functions together than on the sum of individual skills.
-
-
 ---
 
 Feel free to reach out for opportunities or collaborations!
@@ -72,17 +81,9 @@ Feel free to reach out for opportunities or collaborations!
 
 ---
 
-## **Education**  
+<details>
+    <summary>Work History</summary>
 
-### 🎓 **Master of Science in Computer Science**  
-**Georgia Institute of Technology** *(2020 – 2024)*  
-- Researcher at [Design & Intelligence Lab](https://dilab.gatech.edu/)  
-- Relevant Work: [Jill Watson](https://dilab.gatech.edu/jill-watson/)  
-
-### 🎓 **Master of Arts in Cultural Sustainability**  
-**Goucher College** *(2010 – 2013)*  
-- Conducted a two-year grant-funded solo multi-sited ethnography in Northern Africa, EU, and Republic of Ireland  
-- Studied identity formation & capital fetishes  
 
 ---
 
@@ -133,4 +134,5 @@ Feel free to reach out for opportunities or collaborations!
 - Contributed to AI-driven education and security applications, enhancing engagement and data protection.  
 - Developed fintech tools that supported multimillion-dollar contracts.  
 - Combined technical expertise with teaching, improving student outcomes and executive understanding.  
-- Proven ability to work across diverse industries and cultural contexts, from corporate to education.  
+- Proven ability to work across diverse industries and cultural contexts, from corporate to education.
+</details>
