@@ -61,33 +61,13 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
         </ul>
     </div>
 </div>
----
-
-Feel free to reach out for opportunities or collaborations!
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin: 20px 0; font-family: Arial, sans-serif; font-size: 14px;">
-    <div>
-        📍 <strong>Location:</strong> 
-        <a href="https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html" target="_blank">Brooklyn, NY</a>
-    </div>
-    <div>
-        ✉️ <strong>Email:</strong> 
-        <a href="mailto:lilaresearch@gmail.com">lilaresearch@gmail.com</a>
-    </div>
-    <div>
-        🌐 <strong>Portfolio:</strong> 
-        <a href="https://github.com/LilaShiba" target="_blank">Resume & Portfolio</a>
-    </div>
-</div>
-
----
-
-<details>
-    <summary>Work History</summary>
 
 
----
 
 ## **Professional Experience**  
+<details>
+    <summary>Click to Expand</summary>
+
 
 ### **Engineer & Full-Stack Developer**  
 **Self-Employed** *(Apr 2022 – Present)*  
@@ -136,3 +116,23 @@ Feel free to reach out for opportunities or collaborations!
 - Combined technical expertise with teaching, improving student outcomes and executive understanding.  
 - Proven ability to work across diverse industries and cultural contexts, from corporate to education.
 </details>
+
+
+Feel free to reach out for opportunities or collaborations!
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin: 20px 0; font-family: Arial, sans-serif; font-size: 14px;">
+    <div>
+        📍 <strong>Location:</strong> 
+        <a href="https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html" target="_blank">Brooklyn, NY</a>
+    </div>
+    <div>
+        ✉️ <strong>Email:</strong> 
+        <a href="mailto:lilaresearch@gmail.com">lilaresearch@gmail.com</a>
+    </div>
+    <div>
+        🌐 <strong>Portfolio:</strong> 
+        <a href="https://github.com/LilaShiba" target="_blank">Resume & Portfolio</a>
+    </div>
+</div>
+
+---
