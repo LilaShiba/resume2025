@@ -65,8 +65,7 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
 
 
 ## **Professional Experience**  
-<details>
-    <summary>Click to Expand</summary>
+
     
 ### **Engineer & Full-Stack Developer**  
 **Self-Employed** *(Apr 2022 – Present)*  
@@ -107,14 +106,6 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
 - Designed and delivered engaging lesson plans that fostered critical thinking and communication skills.  
 
 ---
-
-## **Key Highlights**  
-
-- Contributed to AI-driven education and security applications, enhancing engagement and data protection.  
-- Developed fintech tools that supported multimillion-dollar contracts.  
-- Combined technical expertise with teaching, improving student outcomes and executive understanding.  
-- Proven ability to work across diverse industries and cultural contexts, from corporate to education.
-</details>
 
 
 Feel free to reach out for opportunities or collaborations!
