@@ -12,11 +12,11 @@
 
 
 ## **About Me**  
-I am a technologist with global experience tackling human-computer interaction challenges within the fintech sector. My career highlights include:  
+I am a technologist with global experience tackling human-computer interaction challenges within the fintech & educational sectors. My career highlights include:  
 
-- 🌍 **Consulting Expertise:** Advising MasterCard in São Paulo, Buenos Aires, and Toronto on machine learning, databases, and APIs.  
-- 🤖 **State-of-the-Art Solutions:** Developing and deploying cutting-edge NLP/LLM systems with Georgia Tech, specifically optimizing information pipelines from vector encoding to prediction.  
-- 🌟 **Global Collaboration:** Partnering with engineers across six continents to craft bespoke software for data pipelines in large banks undergoing data migrations.  
+- 🌍 **Consulting Expertise:** Advising MasterCard in São Paulo, Buenos Aires, and Mexico City on machine learning, NOsql databases, tokenization, and APIs.  
+- 🤖 **State-of-the-Art Solutions:** Developing and deploying cutting-edge NLP/LLM systems with Georgia Tech, specifically optimizing information pipelines from vector encoding to prediction. I focus on how the machine comes to an anwser. 
+- 🌟 **Global Collaboration:** Partnering with engineers, artists, and teachers across six continents to craft bespoke software.
 
 Whether guiding first-graders or C-level executives, one truth remains constant: The success of any endeavor relies more on how a team functions together than on the sum of individual skills.
 
@@ -55,7 +55,7 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
             <li>Data Migrations, APIs, Data Pipelines</li>
             <li>
                 <a href="https://stackoverflow.blog/2019/12/04/introducing-subject-matter-experts/" target="_blank">
-                    Stack Overflow SME
+                    Stack Overflow SME, Maths, UX/UI
                 </a>
             </li>
         </ul>
