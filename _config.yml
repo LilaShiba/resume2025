@@ -1,10 +1,9 @@
 # Site Settings
-title: "Lila Josey James" # Your site title
-description: "Resume and Portfolio of Lila Josey James" # Optional site description
-url: "https://github.com/lilashiba" # Your site URL
-baseurl: "/resume2025" # The repository name, include this if it's not your main GitHub Pages repo
-author: "Lila Josey James" # Your name or site's author
-
+title: "Lila Josey James" 
+description: "Resume and Portfolio of Lila Josey James" 
+url: "https://github.com/lilashiba" 
+baseurl: "/resume2025" 
+author: "Lila Josey James" 
 # Theme Settings
 remote_theme: pages-themes/minimal@v0.2.0 # The Minimal theme from GitHub Pages
 plugins:
@@ -13,6 +12,14 @@ plugins:
 # Customization
 markdown: kramdown # Default Markdown processor
 highlighter: rouge # Code highlighting (optional)
+
+# Include custom styles
+sass:
+  style: compressed
+
+# Assets
+include:
+  - assets/css/style.scss
 
 # Build settings
 exclude:
