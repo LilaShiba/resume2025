@@ -12,7 +12,7 @@
 
 
 ## **About Me**  
-I am a technologist with global experience tackling human-computer interaction challenges within the fintech & educational sectors. My career highlights include:  
+I am a [technologist with global experience](https://github.com/lilashiba) tackling human-computer interaction challenges within the fintech & educational sectors. My career highlights include:  
 
 - 🌍 **Consulting Expertise:** Advising MasterCard in São Paulo, Buenos Aires, and Mexico City on machine learning, NOsql databases, tokenization, and APIs.  
 - 🤖 **State-of-the-Art Solutions:** Developing and deploying cutting-edge NLP/LLM systems with Georgia Tech, specifically optimizing information pipelines from vector encoding to prediction. I focus on how the machine comes to an anwser. 
@@ -22,7 +22,7 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
 
 ## **Education**  
 
-#### 🎓 **Master of Science in Computer Science**  
+#### 🎓 [Master of Science in Computer Science](https://drive.google.com/file/d/1tcGbj_dZYLAW8cIG5jpEUuaGWtQ2LTTM/view?usp=sharing)
 **Georgia Institute of Technology** *(2020 – 2024)*  
 - Researcher at [Design & Intelligence Lab](https://dilab.gatech.edu/)  
 - Relevant Work: [Jill Watson](https://dilab.gatech.edu/jill-watson/)  
@@ -36,21 +36,21 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin: 20px 0;">
     <div style="flex: 1; min-width: 200px;">
-        <h3>AI & Machine Learning</h3>
+        <h3><a href="https://lilashiba.github.io/SND_Agents/"> AI & Machine Learning</a></h3>
         <ul>
             <li>Python, R, PyTorch, TensorFlow</li>
             <li>LangChain, LLMs, NLP, CNN</li>
         </ul>
     </div>
     <div style="flex: 1; min-width: 200px;">
-        <h3>Development & Databases</h3>
+        <h3> <a href='https://lilashiba.github.io/cancer_image_detection/'> Development & Databases</a></h3>
         <ul>
             <li>JavaScript, Java, Flask, Node.js</li>
             <li>Git, Docker, MongoDB, NoSQL, Vector DBs</li>
         </ul>
     </div>
     <div style="flex: 1; min-width: 200px;">
-        <h3>Other Skills</h3>
+        <h3><a href="https://lilashiba.github.io/flora_dress/"> Other Skills</a></h3>
         <ul>
             <li>Data Migrations, APIs, Data Pipelines</li>
             <li>
