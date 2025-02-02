@@ -73,7 +73,7 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
 - Researcher & Developer in the Design and Intelligence lab partnered with IBM Watson
 - 🎗️ Recovered from blood cancer 🎗️
 - Created and taught CS courses at the Riverdale Country School
-- Created and led a co-op for wearable fashion tech
+- Created and led a co-op for <a href="https://lilashiba.github.io/flora_dress/"> wearable fashion tech </a>
 
 ### **Engineer**  
 **[Unqork](https://news.crunchbase.com/unicorn-company-list/)** *(Apr 2021 – 2022)*  
