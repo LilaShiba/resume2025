@@ -82,7 +82,7 @@ Whether guiding first-graders or C-level executives, one truth remains constant:
 
 ### **Product Developer & Technical Trainer**  
 **[Unqork](https://news.crunchbase.com/unicorn-company-list/)** *(Aug 2020 – Jan 2021)*  
-- Authored custom development tools and facilitated training sessions on their use, leveraging **JavaScript** and **SQL** to drive operational efficiency.  
+- Authored custom development tools and facilitated training sessions on their use, leveraging **JavaScript** and **SQL** & **NoSQL** to drive operational efficiency.  
 - Recognized as a Stack Overflow Subject Matter Expert for providing scalable solutions.  
 
 ### **JavaScript Lead Instructor**  
