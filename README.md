@@ -11,22 +11,23 @@
 </div>
 
 
-## **SKILLS**  
+## **SKILLS & EDUCATION**    
 Python • R • PyTorch • TensorFlow • LangChain • LLMs • NLP • CNN • JavaScript • Java • Flask • Node • Docker • MongoDB • NoSQL • Vector DBs • Data Migrations • APIs • Data Pipelines • Client Success • Technical Training  
 
-## **EDUCATION**  
-
-🎓 **Master of Arts, Cultural Sustainability**  
-**Goucher College** (_2013_)  
-
 🎓 **[Master of Science in Computer Science](https://drive.google.com/file/d/1tcGbj_dZYLAW8cIG5jpEUuaGWtQ2LTTM/view?usp=sharing)**  
-**Georgia Institute of Technology** (_2024_)  
+**Georgia Institute of Technology** (_2024_) 
 
-## **WORK EXPERIENCE**  
+🎨 **Master of Arts, Cultural Sustainability**  
+**Goucher College** (_2013_)   
+
+🔬 **Bachelor of Science, Experimental Design**  
+**Towson University** (_2010_)   
+
+## **Teaching EXPERIENCE**  
 
 ### **Teach For America**  
 **Secondary English Teacher**  
-_Jun 2013 - Jun 2015_  
+_Jun 2013 - Jun 2016_  
 - Applied data-driven instruction to identify and address learning gaps, resulting in measurable student progress.  
 - Developed and implemented engaging lesson plans that enhanced critical thinking and communication skills.  
 
@@ -36,6 +37,8 @@ _Aug 2017 - Jul 2019_
 - Developed curriculum integrating Python and Java programming fundamentals, resulting in a 300% increase in class enrollment.  
 - Implemented project-based learning that emphasized algorithm design, enhancing students' problem-solving skills.  
 - Applied real-world applications to computer science principles, fostering practical understanding and engagement.  
+
+## **Software EXPERIENCE**  
 
 ### **Decoded**  
 **Product Manager & Technology Consultant**  
