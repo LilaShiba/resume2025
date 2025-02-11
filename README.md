@@ -43,12 +43,6 @@ _Aug 2019 - Mar 2020_
 - Developed tools for real-time financial data processing and AI-driven analytics, tailored to meet the specific needs of fintech clients.  
 - Conducted executive training sessions on data visualization and AI integrations, utilizing Python, Docker, and SQL, for Fortune 500 companies.  
 
-### **General Assembly**  
-**JavaScript Lead Instructor**  
-_Mar 2020 - Aug 2020_  
-- Instructed students in the development of MERN Stack applications and RESTful API design, facilitating the creation of real-world projects.  
-- Mentored students in implementing full-stack web applications, emphasizing best practices for modern web development.  
-
 ### **Unqork**  
 **Product Developer & Technical Trainer**  
 _Aug 2020 - Jan 2021_  
@@ -59,7 +53,8 @@ _Aug 2020 - Jan 2021_
 _Apr 2021 - 2022_  
 - Developed and launched financial technology applications utilizing JavaScript, MongoDB, and API integrations, securing over $1M in client contracts.  
 - Contributed to the development of proprietary frameworks designed to streamline client onboarding processes.  
-- Enhanced financial data analysis capabilities through the use of NoSQL databases.  
+- Enhanced financial data analysis capabilities through the use of NoSQL databases.
+- Terminated due to Blood Cancer
 
 ### **Self-Employed**  
 **Engineer & Full-Stack Developer**  
