@@ -7,12 +7,15 @@
     <div>
         <p style="font-style: italic; margin-top: 5px;">Technologist passionate about Human-Computer interaction.</p>
         <p style="font-style: italic; margin-top: 5px;"> 📧 lilaresearch@gmail.com | 📍 Brooklyn, NY </p> 
+       <p style="font-style: italic; margin-top: 5px;"> Python • R • PyTorch • TensorFlow • LangChain • LLMs • NLP • CNN • JavaScript • Java • Flask • Node • Docker • MongoDB • NoSQL • Vector DBs • Data Migrations • APIs • Data Pipelines • Client Success • Technical Training </p>
     </div>
 </div>
 
+---
 
-## **SKILLS & EDUCATION**    
-Python • R • PyTorch • TensorFlow • LangChain • LLMs • NLP • CNN • JavaScript • Java • Flask • Node • Docker • MongoDB • NoSQL • Vector DBs • Data Migrations • APIs • Data Pipelines • Client Success • Technical Training  
+
+## EDUCATION    
+ 
 
 🎓 **[Master of Science in Computer Science](https://drive.google.com/file/d/1tcGbj_dZYLAW8cIG5jpEUuaGWtQ2LTTM/view?usp=sharing)**  
 **Georgia Institute of Technology** (_2024_) 
@@ -23,7 +26,7 @@ Python • R • PyTorch • TensorFlow • LangChain • LLMs • NLP • CNN �
 🔬 **Bachelor of Science, Experimental Design**  
 **Towson University** (_2010_)   
 
-## **Teaching EXPERIENCE**  
+## **Teaching Experience**  
 
 ### **Teach For America**  
 **Secondary English Teacher**  
@@ -38,7 +41,7 @@ _Aug 2017 - Jul 2019_
 - Implemented project-based learning that emphasized algorithm design, enhancing students' problem-solving skills.  
 - Applied real-world applications to computer science principles, fostering practical understanding and engagement.  
 
-## **Software EXPERIENCE**  
+## **Software Experience**  
 
 ### **Decoded**  
 **Product Manager & Technology Consultant**  
