@@ -17,14 +17,15 @@
 ## EDUCATION    
  
 
-🎓 **[Master of Science in Computer Science](https://drive.google.com/file/d/1tcGbj_dZYLAW8cIG5jpEUuaGWtQ2LTTM/view?usp=sharing)**  
-**Georgia Institute of Technology** (_2024_) 
+### 🎓 [Master of Science in Computer Science](https://drive.google.com/file/d/1tcGbj_dZYLAW8cIG5jpEUuaGWtQ2LTTM/view?usp=sharing)  
+Georgia Institute of Technology (_2024_)
 
-🎨 **Master of Arts, Cultural Sustainability**  
-**Goucher College** (_2013_)   
+### 🎨 Master of Arts, Cultural Sustainability  
+Goucher College (_2013_)
 
-🔬 **Bachelor of Science, Experimental Design**  
-**Towson University** (_2010_)   
+### 🔬 Bachelor of Science, Experimental Design  
+Towson University (_2010_)
+  
 
 ## **Teaching Experience**  
 
@@ -65,6 +66,7 @@ _Apr 2021 - 2022_
 ### **Self-Employed**  
 **Engineer & Full-Stack Developer**  
 _Apr 2022 - Present_  
-- Design and implement full-stack solutions integrating LLMs, NLP, and Docker, specifically tailored for cancer cell recognition.  
+- Design and implement full-stack solutions integrating LLMs, NLP, and Docker
+- Specifically tailored CNNs for cancer cell recognition.  
 - Develop MongoDB-powered applications that support dynamic data analysis and ensure secure information storage.  
 - Deliver AI-based analytics pipelines utilizing LangChain, PyTorch, TensorFlow, and Flask APIs to enhance decision-making processes for clients.  
