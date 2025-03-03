@@ -40,7 +40,18 @@ _Jun 2013 - Jun 2016_
 _Aug 2017 - Jul 2019_  
 - Developed curriculum integrating Python and Java programming fundamentals, resulting in a 300% increase in class enrollment.  
 - Implemented project-based learning that emphasized algorithm design, enhancing students' problem-solving skills.  
-- Applied real-world applications to computer science principles, fostering practical understanding and engagement.  
+- Applied real-world applications to computer science principles, fostering practical understanding and engagement.
+
+### **Riverdale Country School**  
+**Staff Engineer & Computer Science Teacher**  
+_Aug 2021 - Jul 2023_  
+- Designed and led advanced courses in **Creative CS**, **Statistics with R**, and **Creative Tech Projects**, bridging technical skills with artistic expression.  
+- Led **creative technology mentorships**, guiding students in interdisciplinary projects blending code, design, and interactive media.  
+- Infused **art into video game design**, enabling students to explore generative art, procedural storytelling, and interactive aesthetics.  
+- Applied **project-based learning** to emphasize algorithm design, enhancing students' problem-solving skills.  
+- Integrated **real-world applications** into computer science principles, fostering practical understanding and engagement.  
+ 
+
 
 ## **Software Experience**  
 
