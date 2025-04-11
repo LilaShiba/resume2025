@@ -1,83 +1,70 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-bottom: 20px;">
-    <div>
-        <img src="https://raw.githubusercontent.com/LilaShiba/resume2024/refs/heads/main/self.jpg" 
-             alt="Profile Picture" height="300" 
-             style="border-radius: 50%; margin-bottom: 20px;">
-    </div>
-    <div>
-        <p style="font-style: italic; margin-top: 5px;">Technologist passionate about Human-Computer interaction.</p>
-        <p style="font-style: italic; margin-top: 5px;"> 📧 lilaresearch@gmail.com | 📍 Brooklyn, NY </p> 
-       <p style="font-style: italic; margin-top: 5px;"> Python • R • PyTorch • TensorFlow • LangChain • LLMs • NLP • CNN • JavaScript • Java • Flask • Node • Docker • MongoDB • NoSQL • Vector DBs • Data Migrations • APIs • Data Pipelines • Client Success • Technical Training </p>
-    </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LilaShiba/resume2024/refs/heads/main/self.jpg" alt="Profile Picture" height="200" style="border-radius: 50%;">
+  <p><em>👩‍💻 Technologist focused on the future of Human–Computer Interaction</em></p>
+  <p><em>📧 lilaresearch@gmail.com &nbsp;|&nbsp; 📍 Brooklyn, NY</em></p>
 </div>
 
 ---
 
+## 📚 Education
 
-## EDUCATION    
- 
+| Degree                              | Institution              | Year |
+|-------------------------------------|--------------------------|------|
+| M.S. in Computer Science            | Georgia Tech             | 2024 |
+| M.A. in Cultural Sustainability     | Goucher College          | 2013 |
+| B.S. in Experimental Design         | Towson University        | 2010 |
 
-### 🎓 [Master of Science in Computer Science](https://drive.google.com/file/d/1tcGbj_dZYLAW8cIG5jpEUuaGWtQ2LTTM/view?usp=sharing)  
-Georgia Institute of Technology (_2024_)
 
-### 🎨 Master of Arts, Cultural Sustainability  
-Goucher College (_2013_)
+---
 
-### 🔬 Bachelor of Science, Experimental Design  
-Towson University (_2010_)
-  
+## 🧑‍🏫 **Teaching Experience**
 
-## **Teaching Experience**  
-
-### **Teach For America**  
-**Secondary English Teacher**  
-_Jun 2013 - Jun 2016_  
-- Applied data-driven instruction to identify and address learning gaps, resulting in measurable student progress.  
-- Developed and implemented engaging lesson plans that enhanced critical thinking and communication skills.  
-
-### **Dwight School**  
-**IB Computer Science Teacher**  
-_Aug 2017 - Jul 2019_  
-- Developed curriculum integrating Python and Java programming fundamentals, resulting in a 300% increase in class enrollment.  
-- Implemented project-based learning that emphasized algorithm design, enhancing students' problem-solving skills.  
-- Applied real-world applications to computer science principles, fostering practical understanding and engagement.
-
-### **Riverdale Country School**  
+### 🏫 **Riverdale Country School**  
 **Staff Engineer & Computer Science Teacher**  
-_Aug 2021 - Jul 2023_  
-- Designed and led advanced courses in **Creative CS**, **Statistics with R**, and **Creative Tech Projects**, bridging technical skills with artistic expression.  
-- Led **creative technology mentorships**, guiding students in interdisciplinary projects blending code, design, and interactive media.  
-- Infused **art into video game design**, enabling students to explore generative art, procedural storytelling, and interactive aesthetics.  
-- Applied **project-based learning** to emphasize algorithm design, enhancing students' problem-solving skills.  
-- Integrated **real-world applications** into computer science principles, fostering practical understanding and engagement.  
- 
+*Aug 2021 – Jul 2023*  
+- 🧙‍♀️ Taught *Creative CS*, *Statistics with R*, *Creative Tech Projects*.  
+- ✨ Mentored interdisciplinary creative tech projects blending art + code.  
+- 🎮 Embedded art + narrative into generative games and procedural design.
 
+### 🌍 **Dwight School**  
+**IB Computer Science Teacher**  
+*Aug 2017 – Jul 2019*  
+- 🐍 Designed curriculum in Python + Java; grew enrollment 3x.  
+- 🧩 Led algorithm-focused projects emphasizing problem-solving.  
+- 🔗 Connected CS theory to real-world creativity.
 
-## **Software Experience**  
+### 📚 **Teach For America**  
+**Secondary English Teacher**  
+*Jun 2013 – Jun 2016*  
+- 📊 Used data-driven insights to close learning gaps.  
+- ✍️ Created high-impact lessons developing literacy + critical thinking.
 
-### **Decoded**  
-**Product Manager & Technology Consultant**  
-_Aug 2019 - Mar 2020_  
-- Developed tools for real-time financial data processing and AI-driven analytics, tailored to meet the specific needs of fintech clients.  
-- Conducted executive training sessions on data visualization and AI integrations, utilizing Python, Docker, and SQL, for Fortune 500 companies.  
+---
 
-### **Unqork**  
-**Product Developer & Technical Trainer**  
-_Aug 2020 - Jan 2021_  
-- Developed custom tools using JavaScript and SQL, enhancing operational efficiency and streamlining development processes.  
-- Conducted training sessions on tool utilization, recognized as a Subject Matter Expert on Stack Overflow for delivering scalable solutions.  
+## 💻 **Software Experience**
 
-**Engineer**  
-_Apr 2021 - 2022_  
-- Developed and launched financial technology applications utilizing JavaScript, MongoDB, and API integrations, securing over $1M in client contracts.  
-- Contributed to the development of proprietary frameworks designed to streamline client onboarding processes.  
-- Enhanced financial data analysis capabilities through the use of NoSQL databases.
-- Terminated due to Blood Cancer
-
-### **Self-Employed**  
+### 🌟 **Self-Employed**  
 **Engineer & Full-Stack Developer**  
-_Apr 2022 - Present_  
-- Design and implement full-stack solutions integrating LLMs, NLP, and Docker
-- Specifically tailored CNNs for cancer cell recognition.  
-- Develop MongoDB-powered applications that support dynamic data analysis and ensure secure information storage.  
-- Deliver AI-based analytics pipelines utilizing LangChain, PyTorch, TensorFlow, and Flask APIs to enhance decision-making processes for clients.  
+*Apr 2022 – Present*  
+- ⚙️ Built LLM/NLP tools using LangChain, PyTorch, Flask, Docker.  
+- 🧬 Designed CNNs for cancer cell recognition.  
+- 📈 Delivered AI-powered decision tools for clients.
+
+### 🧱 **Unqork**  
+**Engineer**  
+*Apr 2021 – 2022*  
+- 💸 Developed fintech platforms using JavaScript, MongoDB, APIs.  
+- 🤝 Helped secure $1M+ in client contracts.  
+- 🚨 Left due to blood cancer treatment.
+
+**Product Developer & Technical Trainer**  
+*Aug 2020 – Jan 2021*  
+- 🛠️ Built internal JavaScript + SQL tools.  
+- 🧑‍🏫 Trained devs; recognized SME on Stack Overflow.
+
+### 💡 **Decoded**  
+**Product Manager & Technology Consultant**  
+*Aug 2019 – Mar 2020*  
+- 📊 Built real-time data and AI tools for fintech use cases.  
+- 🧠 Led executive trainings in Python, Docker, and analytics.
+
